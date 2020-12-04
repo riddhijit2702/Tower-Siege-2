@@ -1,2 +1,1 @@
-# Tower-Siege-2
-A continuation of Tower Siege 1
+# TowerSiege-1
